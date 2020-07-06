@@ -45,18 +45,19 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
-.card-footer {
+.card .card-footer{
     background-color: white;
     border-top: none;
 }
 
-#subscribe{
-    height: 300px;
 
-}
+
 #subscribe{
     color: gray;
 }
 footer{
     text-align: center;
+}
+.height{
+    height: 300px;
 }
